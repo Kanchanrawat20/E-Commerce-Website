@@ -11,6 +11,6 @@ Product showcase with images and details
 HTML
 CSS
 JavaScript
-🎯 Purpose
+
 
 This project demonstrates front-end development skills by creating a visually appealing and functional e-commerce-style website for footwear.
