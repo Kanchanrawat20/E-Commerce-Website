@@ -1,4 +1,4 @@
-👟 Footwear Website
+Footwear Website
 
 A modern and responsive footwear website built using HTML, CSS, and JavaScript, designed to showcase stylish and comfortable shoes with an elegant and user-friendly interface.
 Features
@@ -12,4 +12,3 @@ CSS
 JavaScript
 
 
-This project demonstrates front-end development skills by creating a visually appealing and functional e-commerce-style website for footwear.
