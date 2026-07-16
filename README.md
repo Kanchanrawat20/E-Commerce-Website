@@ -6,7 +6,8 @@ Clean and attractive UI design
 Fully responsive for mobile and desktop
 Smooth navigation and interactive elements
 Product showcase with images and details
-🛠️ Tech Stack
+
+Tech Stack
 HTML
 CSS
 JavaScript
